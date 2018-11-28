@@ -222,3 +222,4 @@ __pycache__/
 
 # Windows thumbnail cache files
 Thumbs.db
+aspnetcore/mvc/models/file-uploads/sample/FileUploadSample/wwwroot/lib/
